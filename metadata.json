@@ -1,0 +1,7 @@
+{
+  "name": "Analizador de Calidad Docente",
+  "description": "Una aplicación para evaluar la calidad de la enseñanza a partir de conceptos de vídeos de YouTube y proporcionar transcripción de audio en tiempo real a través del micrófono. Ofrece informes de retroalimentación para educadores.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
